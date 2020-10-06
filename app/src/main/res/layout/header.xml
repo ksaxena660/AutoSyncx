@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="175dp"
+    android:background="#D3D3D3">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:background="@drawable/technology"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="AUTOSYNC"
+        android:textColor="#FFDB58"
+        android:textSize="40sp"
+        android:layout_marginLeft="15dp"
+        android:textStyle="bold" />
+
+
+</LinearLayout>
